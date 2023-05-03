@@ -5,4 +5,4 @@ After John Wick Chapter 3, there was so much anticipation for the release of Joh
 This analysis enabled me to learn more about Data Mining and the use of the Natural Language Processing Tool Kit to draw out meanings from textual data.
 
 ## AIM OF THE ANALYSIS
-This analysis was done to show viewers’ perceptions of the movie. I decided to carry out this analysis to find out the most common words used in the reviews, and the months and days with the highest rating this will show.
+This analysis was done to show viewers’ perceptions of the movie. I decided to carry out this analysis to find out the most common words used in the reviews, and the months and days with the highest rating.
