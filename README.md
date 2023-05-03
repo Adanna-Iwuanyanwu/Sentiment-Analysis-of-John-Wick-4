@@ -27,3 +27,7 @@ To be able to use the dataset for sentiment analysis, I used natural language to
 
 ## SENTIMENT ANALYSIS
 Sentiment analysis is also known as opinion mining which is used to determine if a sentence is positive, negative or neutral. To achieve this, I used the TextBlob library to get the polarity score of the reviews where >0 gives a positive polarity, <0 gives a negative polarity and =0 gives a neutral polarity. 
+
+## DATA VISUALIZATION
+I exported the data into CSV and used Power BI to create a dashboard communicating my findings.
+![image](https://user-images.githubusercontent.com/47563475/236065881-fe95fd75-ea4d-4126-a5d4-49d60ca71f81.png)
