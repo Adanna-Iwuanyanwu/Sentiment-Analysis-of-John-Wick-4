@@ -30,5 +30,6 @@ Sentiment analysis is also known as opinion mining which is used to determine if
 
 ## DATA VISUALIZATION
 I exported the data into CSV and used Power BI to create a dashboard communicating my findings.
-![image](https://user-images.githubusercontent.com/47563475/236066051-78a73ef2-39ca-4204-9f1a-f055d47e449d.png)
+![Sentiment_analysis_dashboard](https://user-images.githubusercontent.com/47563475/236303539-57378284-cf98-4039-aadb-1703b147c0b2.jpg)
+
 
