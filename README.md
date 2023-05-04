@@ -32,4 +32,8 @@ Sentiment analysis is also known as opinion mining which is used to determine if
 I exported the data into CSV and used Power BI to create a dashboard communicating my findings.
 ![Sentiment_analysis_dashboard](https://user-images.githubusercontent.com/47563475/236303539-57378284-cf98-4039-aadb-1703b147c0b2.jpg)
 
+## INSIGHT COMMUNICATION
+From the analysis, 94% of those who have watched the movie left a positive review while 6% left a negative review about the movie. And the most common word they used to describe the movie is “action movie” which clearly defines John Wick Chapter 4.
+
+Since the movie was released on March 24th, 2023 most of the reviews were made in the month of March and it gradually drops as we enter the month of April. 
 
